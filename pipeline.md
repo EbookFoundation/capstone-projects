@@ -1,4 +1,4 @@
-#Ebook Update Pipeline Project
+# Ebook Update Pipeline Project
 
 ## Background
 
@@ -20,3 +20,5 @@ Ebook authoring systems the team will target:
  - Bookdown (R)
 
 The update server will then use Unglue.it to provide syndication feeds for downstream consumption.
+
+Finally the team will produce how-to documentation to enable other ebook-building systems to add update hooks to their own systems.
