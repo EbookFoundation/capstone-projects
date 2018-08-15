@@ -14,6 +14,10 @@ There is a need for a user-friendly search interface for librarians, archivists,
 
 This project will produce a user-friendly, open-source search interface for the structured renewal records.
 
+### Team
+This project will require team members to combine technology with some understanding of copyright law and an ability to analyse user requirements.
+
+### Objectives
 The team will:
 
  - become familiar with the structure of the data. Over the years, the renewal records used four different formats, so the system will need to deal with four different data structures.
@@ -21,5 +25,12 @@ The team will:
  - identify appropriate search, application, web-service and user interface software for implementation of the search system.
  - implement and deploy the system.
  - user-test the system
- 
-The NYPL team is excited at the possibility that a user facing service could be built; they feel it may be instrumental in demonstrating the value of the converted records and securing funding for the remaining conversion work. 
+
+### Issues
+Issues the team will need to resolve
+
+ - how to connect record metadata with original scans
+ - versioning and duplicates
+
+### Wrap-up
+The NYPL team is very excited at the possibility that a user facing service could be built; they feel it may be instrumental in demonstrating the value of the converted records and securing funding for the remaining conversion work. Documentation of the project will need to enable future addition of the records that have not yet been converted.
