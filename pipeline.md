@@ -12,6 +12,13 @@ This project will create an update pipeline for these ebooks by implementing upd
 ### Team
 This project will attempt to scale this approach by implementing update hooks in a number of open-source ebook authoring tools. As the tools are based on different software environments, this project will need a team with a variety of programming skills.
 
+#### Members
+ - name
+ - name
+ - name
+ - name
+ - name
+
 ### Objectives
 Ebook authoring systems the team will target:
  - Wikibooks (PHP)
@@ -29,5 +36,5 @@ Issues the team will need to resolve
  - metadata format and dictionary
  - versioning and duplicates
 
-### Wrapup
+### Wrap-up
 Finally the team will produce how-to documentation to enable other ebook-building systems to add update hooks to their own systems.

@@ -17,6 +17,13 @@ This project will produce a user-friendly, open-source search interface for the 
 ### Team
 This project will require team members to combine technology with some understanding of copyright law and an ability to analyse user requirements.
 
+#### Members
+ - name
+ - name
+ - name
+ - name
+ - name
+
 ### Objectives
 The team will:
 
