@@ -15,20 +15,24 @@ There is a need for a user-friendly search interface for librarians, archivists,
 This project will produce a user-friendly, open-source search interface for the structured renewal records.
 
 ### Team
-This project will require team members to combine technology with some understanding of copyright law and an ability to analyse user requirements.
+This project will require team members to combine technology with some understanding of copyrights and the public domain, and to analyse user requirements.
 
 #### Members
+    * fill in team members *
+ - name  
  - name
  - name
  - name
  - name
- - name
+
+#### About the Team
+    * fill in team attributes *
 
 ### Objectives
 The team will:
 
  - become familiar with the structure of the data. Over the years, the renewal records used four different formats, so the system will need to deal with four different data structures.
- - interview potential users to understand use cases and extract work flows and features sets for the search system.
+ - interview potential users to understand use cases and extract work flows and feature sets for the search system.
  - identify appropriate search, application, web-service and user interface software for implementation of the search system.
  - implement and deploy the system.
  - user-test the system
