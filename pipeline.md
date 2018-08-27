@@ -43,3 +43,7 @@ Issues the team will need to resolve
 
 ### Wrap-up
 Finally the team will produce how-to documentation to enable other ebook-building systems to add update hooks to their own systems.
+
+### Schedule
+
+ - mid May, 2019 -  Press Release!

@@ -5,11 +5,12 @@ This repo is used to organize Free Ebook Foundation projects for Stevens Institu
 
 The two proposed projects are
 
- - [A search system for copyright renewals](copyright-renewals.md)
+ - [A search system for copyright records](copyright-renewals.md)
  - [An update pipeline for ebook authoring systems](pipelind.md)
  
-Students interested in these projects should use Github issues and pull requests to develop and propose teams. For example, students interested in a project but needing team members, and teams needing additional members should create an issue describing their interest and needs. Use issues to ask questions or seek clarification about the projects. To propose a team for a specific project, create a pull request adding the names of team members to the project page. You may also want to include roles, capabilities and the approach of them team. I will accept proposals my merging the pull request no sooner than 7 days after the presentation of the project to the class.
+Students interested in these projects should use Github issues and pull requests to develop and propose teams. For example, students interested in a project but needing team members, and teams needing additional members should create an issue describing their interest and needs. Use issues to ask questions or seek clarification about the projects. To propose a team for a specific project, create a pull request adding the names of team members to the project page. You may also want to include roles, capabilities and the approach of the team. 
 
+Since not all projects will be pitched until September 10, I will not accept a proposal PR until September 11. But please do not wait until September 10 to start a pull request even if your team is incomplete or you're still deciding - I will comment on PRs with the goal of improving them, and you can close the PR to withdraw the proposal through September 10. If there are competing proposals, I will give preference to the best developed proposal. 
 
 ## 2017-2018
 

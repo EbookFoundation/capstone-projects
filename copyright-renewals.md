@@ -41,7 +41,12 @@ The team will:
 Issues the team will need to resolve
 
  - how to connect record metadata with original scans
- - versioning and duplicates
+ - do users need accounts?
+ - will there be an api?
 
 ### Wrap-up
 The NYPL team is very excited at the possibility that a user facing service could be built; they feel it may be instrumental in demonstrating the value of the converted records and securing funding for the remaining conversion work. Documentation of the project will need to enable future addition of the records that have not yet been converted.
+
+### Schedule
+
+ - mid May, 2019 -  Press Release!
