@@ -9,6 +9,8 @@ There needs to be a way for ebook authors to announce new books and version upda
 ## Plan
 This project will create an update pipeline for these ebooks by implementing update hooks in a variety of open source ebook authoring systems. The Free Ebook Foundation has demonstrated the viability of such a system in its GITenberg project, which uses Github hooks to announce the possible availability of an updated version of a book built from a git repository, and YAML-based metadata files to describe the ebooks being updated.
 
+![Proposed update system](pipeline_diagram.png "pipeline diagram")
+
 ### Team
 This project will attempt to scale this approach by implementing update hooks in a number of open-source ebook authoring tools. As the tools are based on different software environments, this project will need a team with a variety of programming skills.
 
