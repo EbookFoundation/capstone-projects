@@ -6,7 +6,7 @@ This repo is used to organize Free Ebook Foundation projects for Stevens Institu
 The two proposed projects are
 
  - [A search system for copyright records](copyright-renewals.md)
- - [An update pipeline for ebook authoring systems](pipelind.md)
+ - [An update pipeline for ebook authoring systems](pipeline.md)
  
 Students interested in these projects should use Github issues and pull requests to develop and propose teams. For example, students interested in a project but needing team members, and teams needing additional members should create an issue describing their interest and needs. Use issues to ask questions or seek clarification about the projects. To propose a team for a specific project, create a pull request adding the names of team members to the project page. You may also want to include roles, capabilities and the approach of the team. 
 
