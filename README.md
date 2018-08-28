@@ -12,6 +12,8 @@ Students interested in these projects should use Github issues and pull requests
 
 Since not all projects will be pitched until September 10, I will not accept a proposal PR until September 11. But please do not wait until September 10 to start a pull request even if your team is incomplete or you're still deciding - I will comment on PRs with the goal of improving them, and you can close the PR to withdraw the proposal through September 10. If there are competing proposals, I will give preference to the best developed proposal. 
 
+I expect to meet with teams weekly - I usually use Google Hangouts. I think it's important to meet the team in person at least once, preferably multiple times over the course of a the school year.
+
 ## 2017-2018
 
 The two project completed were
