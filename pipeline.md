@@ -22,7 +22,7 @@ This project will attempt to scale this approach by implementing update hooks in
 - Maxwell Melo
 
 #### About the Team
-    * fill in team attributes *
+    * TBD *
 
 ### Objectives
 Ebook authoring systems the team will target:
