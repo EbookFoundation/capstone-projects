@@ -15,12 +15,11 @@ This project will create an update pipeline for these ebooks by implementing upd
 This project will attempt to scale this approach by implementing update hooks in a number of open-source ebook authoring tools. As the tools are based on different software environments, this project will need a team with a variety of programming skills.
 
 #### Members
-    * fill in team members *
- - name  
- - name
- - name
- - name
- - name
+- Dominik Michno
+- Theodore Kluge
+- Graham Howard
+- Michael Iacona
+- Maxwell Melo
 
 #### About the Team
     * fill in team attributes *
