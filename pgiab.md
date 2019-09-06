@@ -12,5 +12,12 @@ USB flash drives costing <$50 are now available that can contain all 60,000 work
 
 ## Plan
 
-This project will create a Project Gutenberg web service for the Internet-in-a-Box. The team will develop an Ansible script to install a web server and search database into the module. Building on elements from the global Gutenberg website, the team will build a set of special-interest book lists to supplement the search facility - classics, scifi, history, etc. along with general directions on how to use the module.
+This project will create a Project Gutenberg web service for the Internet-in-a-Box. The team will develop an [Ansible script](https://docs.ansible.com/ansible/latest/index.html) to install a web server and search database into the module. Building on elements from the global Gutenberg website, the team will build a set of special-interest book lists to supplement the search facility - classics, scifi, history, etc. along with general directions on how to use the module.
 
+## Goal
+
+Build a demo with RasperryPi hardware, a Project Gutenberg plugin, amaze our friends and family.
+
+## Whitespace
+
+Although the scope of this project is to build a Project Gutenberg plugin, wherever possible, we should think about making sure that we pave the way for future plugins with free ebooks from other content sources - for example textbooks or academic books. We should also think about the needs of users who are disconnected from the global internet.
