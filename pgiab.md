@@ -30,7 +30,8 @@ Although the scope of this project is to build a Project Gutenberg plugin, where
     Hariharan Vijayachandran - Front End
 
 ## Our Plan
-    MVP: Use Ansible to download a basic server from git that displays books which you can download. Section off types of books(genres) by either labels provided or if not, comparing book titles to their sections online/ on the project gutenburg website.
+    MVP: Use Ansible to download a basic server from git that displays books which you can download. 
+    Section off types of books(genres) by either labels provided or if not, comparing book titles to info from online/the project gutenburg website.
 
     Provide a interactive frontend using React and scalable backend. 
     Provide user friendly features: 
