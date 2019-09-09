@@ -21,3 +21,25 @@ Build a demo with RasperryPi hardware, a Project Gutenberg plugin, amaze our fri
 ## Whitespace
 
 Although the scope of this project is to build a Project Gutenberg plugin, wherever possible, we should think about making sure that we pave the way for future plugins with free ebooks from other content sources - for example textbooks or academic books. We should also think about the needs of users who are disconnected from the global internet.
+
+## Proposed Team
+    Zion Fung - Front End
+    Vincent Lee - Back End  
+    Alex Schlumpf - Front End  
+    Sean Trinh - Back End (Experince with Ansible)
+    Hariharan Vijayachandran - Front End
+
+## Our Plan
+    MVP: Use Ansible to download a basic server from git that displays books which you can download
+
+    Provide a interactive frontend using React and scalable backend. 
+    Provide user friendly features: 
+        1) Login
+        2) Recommended Books
+        3) Recently Viewed Books
+        4) Trending on your network
+        5) Read books on the site
+        6) Rate books
+    
+    Additional hardware required:
+        Raspberry Pi wifi module (depending on which version)
