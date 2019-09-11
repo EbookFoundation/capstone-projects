@@ -10,7 +10,8 @@ New York Public Library has hired a contractor to take one set of the scanned re
 
 There is a need for a user-friendly search interface for librarians, archivists, and rights researchers to make use of the XML data.
 
-Update: The dataset has been used to find ["secretly in the public domain"](https://www.crummy.com/2019/08/09/0) and has gotten [some publicity](https://www.vice.com/en_us/article/kz4e3e/millions-of-books-are-secretly-in-the-public-domain-you-can-download-them-free)
+Update (September 2019): The dataset has been used to find ["secretly in the public domain"](https://www.crummy.com/2019/08/09/0) and has gotten [some publicity](https://www.vice.com/en_us/article/kz4e3e/millions-of-books-are-secretly-in-the-public-domain-you-can-download-them-free)
+NYPL has done some preliminary work on a front end for this data
 
 ## Plan
 
