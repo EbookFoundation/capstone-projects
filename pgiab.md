@@ -21,5 +21,3 @@ Build a demo with RasperryPi hardware, a Project Gutenberg plugin, amaze our fri
 ## Whitespace
 
 Although the scope of this project is to build a Project Gutenberg plugin, wherever possible, we should think about making sure that we pave the way for future plugins with free ebooks from other content sources - for example textbooks or academic books. We should also think about the needs of users who are disconnected from the global internet.
-
-## Proposal
