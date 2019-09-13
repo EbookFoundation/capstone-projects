@@ -20,15 +20,14 @@ This project will produce a user-friendly, open-source search interface for the 
 This project will require team members to combine technology with some understanding of copyrights and the public domain, and to analyse user requirements.
 
 #### Members
-    * fill in team members *
- - name  
- - name
- - name
- - name
- - name
+ - Dylan DiGeronimo (ddigeron@stevens.edu)
+ - Rachel Kim (rkim5@stevens.edu)
+ - Ryan Locke (rlocke@stevens.edu)
+ - Naseem Miah (nmiah@stevens.edu)
+ - Taleen Mitchell (tmitche2@stevens.edu)
 
 #### About the Team
-    * fill in team attributes *
+    We are Dylan DiGeronimo, Rachel Kim, Ryan Locke, Naseem Miah, and Taleen Mitchell, and we are extremely excited to have the chance to work with the Free Ebook Foundation and the New York Public Library to help make this critical information available to more users. The five of us posess a broad skillset, including experience with Linux systems, front and back end web development, database configuration, interface design, technical writing and documentation, and cybersecurity.
 
 ### Objectives
 The team will:
