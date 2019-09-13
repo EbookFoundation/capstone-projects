@@ -21,3 +21,30 @@ Build a demo with RasperryPi hardware, a Project Gutenberg plugin, amaze our fri
 ## Whitespace
 
 Although the scope of this project is to build a Project Gutenberg plugin, wherever possible, we should think about making sure that we pave the way for future plugins with free ebooks from other content sources - for example textbooks or academic books. We should also think about the needs of users who are disconnected from the global internet.
+
+## Proposed Team
+[Zion Fung](https://www.linkedin.com/in/zionfung/)   
+[Vincent Lee](https://www.linkedin.com/in/vincent-lee98/)   
+[Alex Schlumpf](https://www.linkedin.com/in/alex-schlumpf-1317a314a/)  
+[Sean Trinh](https://www.linkedin.com/in/sean-trinh/)   
+[Hariharan Vijayachandran](https://www.linkedin.com/in/hariharan-vijayachandran-16a5b8133/) 
+
+## More about our team 
+We are passionate in supporting an open source non profit. We have a wide range of skill sets that would be directly applicable to this project from dealing with cloud infrastructure to creating 
+full stack applications with secure back ends and visually pleasing front ends.    
+
+## Our Plan
+MVP: Use Ansible to download a basic node server from git that displays books in pure html which you can download. 
+Section off types of books by either genres/labels provided or if not, comparing book titles to info from online/the project gutenburg website.
+
+
+### Ideas
+1) We would like to provide an interactive website using react. This is however dependent on the types of computers/ devices that the users would have access to. 
+2) Provide some caching of all time popular books from the gutenberg website so that users would be able to have quick access to commonly read books without betraying privacy. 
+3) Depending on the types of devices they have it might be a lot more beneficial to provide the users the ability to read online then download. 
+4) Use cookies so that users don’t have to login but can see their recently viewed books.
+5) Scalability as in if there are multiple pi’s in an area could we have one act as a load balancer. 
+
+Additional hardware required:
+    Raspberry Pi wifi module (depending on which version)
+
