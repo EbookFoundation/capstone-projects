@@ -12,9 +12,9 @@ USB flash drives costing <$50 are now available that can contain all 60,000 work
 
 ## Plan
 
-To build off of open source software which will allow us to circumvent distribution cost, compression concerns, and the adoption rate of our software. Currently Internet in A Box (internet-in-a-box.org) and Kiwix (kiwix.org) are open source platforms which allow the easy serving of ZIMs. ZIMs are highly compressed versions of STATIC webpages (https://en.wikipedia.org/wiki/ZIM_(file_format)). 
+To build off of open source software which will effectively circumvent distribution cost, compression concerns, and the improve the overall adoption rate of Project Gutenberg In A Box. Currently Internet in A Box (internet-in-a-box.org) and Kiwix (kiwix.org) are open source platforms which serve webpages that have been scraped from online. These scraped webpages must be stored as STATIC webpages and then compressed into the ZIM file type. ZIMs are the portable modules which iiab and kiwix support. https://en.wikipedia.org/wiki/ZIM_(file_format)   
 
-Current websites which are hosted as zims have to be scraped, stored statically, and compressed. Currently project gutenberg exists as a ZIM and the source code to create it is open source, https://github.com/openzim/gutenberg. We plan to contribute to edit the source code of the project gutenberg zim and distribute it so that the open source platforms can host it.
+Currently project gutenberg exists as a ZIM and the source code to create it is open source, https://github.com/openzim/gutenberg. We plan to edit the source code of the project gutenberg zim repository to support our goals and distribute it to the open source platforms.
 
 ## Goal
 
@@ -22,7 +22,11 @@ Gear project gutenberg for teachers to use in areas where internet is not access
 
 MVP: Add search features and tabs for book categories to the current ZIM implementation. 
 
-Additional: Support the ability for teachers to add a reading list. Create a most popular reading list based off of what users are looking at. Most likely will require a seperate backend.
+Additional: 
+    
+    1) Support the ability for teachers to add a reading list. 
+    
+    2) Create a most popular reading list based off of what users are looking at. Most likely will require a seperate backend.
 
 ## Team
 [Zion Fung](https://www.linkedin.com/in/zionfung/)  
