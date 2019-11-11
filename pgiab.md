@@ -12,39 +12,24 @@ USB flash drives costing <$50 are now available that can contain all 60,000 work
 
 ## Plan
 
-This project will create a Project Gutenberg web service for the Internet-in-a-Box. The team will develop an [Ansible script](https://docs.ansible.com/ansible/latest/index.html) to install a web server and search database into the module. Building on elements from the global Gutenberg website, the team will build a set of special-interest book lists to supplement the search facility - classics, scifi, history, etc. along with general directions on how to use the module.
+To build off of open source software which will allow us to circumvent distribution cost, compression concerns, and the adoption rate of our software. Currently Internet in A Box (internet-in-a-box.org) and Kiwix (kiwix.org) are open source platforms which allow the easy serving of ZIMs. ZIMs are highly compressed versions of STATIC webpages (https://en.wikipedia.org/wiki/ZIM_(file_format)). 
+
+Current websites which are hosted as zims have to be scraped, stored statically, and compressed. Currently project gutenberg exists as a ZIM and the source code to create it is open source, https://github.com/openzim/gutenberg. We plan to contribute to edit the source code of the project gutenberg zim and distribute it so that the open source platforms can host it.
 
 ## Goal
 
-Build a demo with RasperryPi hardware, a Project Gutenberg plugin, amaze our friends and family.
+Gear project gutenberg for teachers to use in areas where internet is not accessible. 
 
-## Whitespace
+MVP: Add search features and tabs for book categories to the current ZIM implementation. 
 
-Although the scope of this project is to build a Project Gutenberg plugin, wherever possible, we should think about making sure that we pave the way for future plugins with free ebooks from other content sources - for example textbooks or academic books. We should also think about the needs of users who are disconnected from the global internet.
+Additional: Support the ability for teachers to add a reading list. Create a most popular reading list based off of what users are looking at. Most likely will require a seperate backend.
 
-## Proposed Team
-[Zion Fung](https://www.linkedin.com/in/zionfung/)   
+## Team
+[Zion Fung](https://www.linkedin.com/in/zionfung/)  
 [Vincent Lee](https://www.linkedin.com/in/vincent-lee98/)   
 [Alex Schlumpf](https://www.linkedin.com/in/alex-schlumpf-1317a314a/)  
 [Sean Trinh](https://www.linkedin.com/in/sean-trinh/)   
 [Hariharan Vijayachandran](https://www.linkedin.com/in/hariharan-vijayachandran-16a5b8133/) 
 
 ## More about our team 
-We are passionate in supporting an open source non profit. We have a wide range of skill sets that would be directly applicable to this project from dealing with cloud infrastructure to creating 
-full stack applications with secure back ends and visually pleasing front ends.    
-
-## Our Plan
-MVP: Use Ansible to download a basic node server from git that displays books in pure html which you can download. 
-Section off types of books by either genres/labels provided or if not, comparing book titles to info from online/the project gutenburg website.
-
-
-### Ideas
-1) We would like to provide an interactive website using react. This is however dependent on the types of computers/ devices that the users would have access to. 
-2) Provide some caching of all time popular books from the gutenberg website so that users would be able to have quick access to commonly read books without betraying privacy. 
-3) Depending on the types of devices they have it might be a lot more beneficial to provide the users the ability to read online then download. 
-4) Use cookies so that users don’t have to login but can see their recently viewed books.
-5) Scalability as in if there are multiple pi’s in an area could we have one act as a load balancer. 
-
-Additional hardware required:
-    Raspberry Pi wifi module (depending on which version)
-
+We are all 4/4 (senior) computer science students at Stevens Institute of Technology in Hoboken, NJ. We are passionate in supporting this non-for-profit project. We all highly value early childhood education and the sharing of knowledge. Each member posseses a wide range of knowledge and expertise varying from creating creative front ends to complicated backends and are enthusiastic to be contributing to a project that highlights our skills and provides an outlet to demonstrate them with an impact.   
