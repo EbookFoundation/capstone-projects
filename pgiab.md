@@ -12,7 +12,7 @@ USB flash drives costing <$50 are now available that can contain all 60,000 work
 
 ## Plan
 
-To build off of open source software which will effectively circumvent distribution cost, compression concerns, and the improve the overall adoption rate of Project Gutenberg In A Box. Currently Internet in A Box (http://internet-in-a-box.org) and Kiwix (kiwix.org) are open source platforms which serve webpages that have been scraped from online. These scraped webpages must be stored as STATIC webpages and then compressed into the ZIM file type. ZIMs are the portable modules which iiab and kiwix support. https://en.wikipedia.org/wiki/ZIM_(file_format)   
+To build off of open source software which will effectively circumvent distribution cost, compression concerns, and the improve the overall adoption rate of Project Gutenberg In A Box. Currently Internet in A Box (http://internet-in-a-box.org) and Kiwix (https://www.kiwix.org/en/) are open source platforms which serve webpages that have been scraped from online. These scraped webpages must be stored as STATIC webpages and then compressed into the ZIM file type. ZIMs are the portable modules which iiab and kiwix support. https://en.wikipedia.org/wiki/ZIM_(file_format)   
 
 Currently project gutenberg exists as a ZIM and the source code to create it is open source, https://github.com/openzim/gutenberg. We plan to edit the source code of the project gutenberg zim repository to support our goals and distribute it to the open source platforms.
 
