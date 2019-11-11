@@ -6,13 +6,13 @@ Project Gutenberg is a 47 year old organization whose mission is to make public 
 
 Today, there are still parts of the world where access to the global internet is limited or non-existent. Rural parts of world from Alaska to Africa are still have little or no bandwidth to connect to the internet. Other parts of the world may be disconnected because of censorship or social strife.
 
-In response, the [Internet-in-a-Box project](http://internet-in-a-box.org/) has produced open-source designs for self-contained hotspots based on RaspberryPi computers. Content modules can be installed by plugging in USB drives with self-contained websites.
+In response, the [Internet-in-a-Box project] (http://internet-in-a-box.org/) has produced open-source designs for self-contained hotspots based on RaspberryPi computers. Content modules can be installed by plugging in USB drives with self-contained websites.
 
 USB flash drives costing <$50 are now available that can contain all 60,000 works from Project Gutenberg. Only a small fraction of these books are available among the Internet-in-a-box content modules.
 
 ## Plan
 
-To build off of open source software which will effectively circumvent distribution cost, compression concerns, and the improve the overall adoption rate of Project Gutenberg In A Box. Currently Internet in A Box (internet-in-a-box.org) and Kiwix (kiwix.org) are open source platforms which serve webpages that have been scraped from online. These scraped webpages must be stored as STATIC webpages and then compressed into the ZIM file type. ZIMs are the portable modules which iiab and kiwix support. https://en.wikipedia.org/wiki/ZIM_(file_format)   
+To build off of open source software which will effectively circumvent distribution cost, compression concerns, and the improve the overall adoption rate of Project Gutenberg In A Box. Currently Internet in A Box (http://internet-in-a-box.org) and Kiwix (kiwix.org) are open source platforms which serve webpages that have been scraped from online. These scraped webpages must be stored as STATIC webpages and then compressed into the ZIM file type. ZIMs are the portable modules which iiab and kiwix support. https://en.wikipedia.org/wiki/ZIM_(file_format)   
 
 Currently project gutenberg exists as a ZIM and the source code to create it is open source, https://github.com/openzim/gutenberg. We plan to edit the source code of the project gutenberg zim repository to support our goals and distribute it to the open source platforms.
 
