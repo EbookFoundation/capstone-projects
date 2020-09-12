@@ -8,39 +8,60 @@ The Free Ebook Foundation (FEF) has been helping Project Gutenberg (PG) renovate
 
 “Bookshelves” are lists of PG books that help users navigate PG. See them [here](https://www.gutenberg.org/wiki/Category:Bookshelf).
 
-
 ## Problem
 
 - System for creating and updating bookshelves is failing
-    - PHP/wiki interface
-    - Loaded into production Postgres db by scraping wiki!
-    - Few people maintaining it.
-    - No way to create personal bookshelves or reading lists
-    - Recurring security issues with PHP
-
+  - PHP/wiki interface
+  - Loaded into production Postgres db by scraping wiki!
+  - Few people maintaining it.
+  - No way to create personal bookshelves or reading lists
+  - Recurring security issues with PHP
 
 ## Proposed Solution
 
 - Registrationless Bookshelf Builder
-    - HTML5 local storage + javascript
-    - Button on Item page
-    - Import/export lists for sharing
+
+  - HTML5 local storage + javascript
+  - Button on Item page
+  - Import/export lists for sharing
 
 - Bookshelf Management App
-    - Python/Flask or Python/CherryPy with Postgres backend
-    - Managers can make new bookshelves and categories
-    - Moderators can add/remove items from Builder Bookshelves
-
-
+  - Python/Flask or Python/CherryPy with Postgres backend
+  - Managers can make new bookshelves and categories
+  - Moderators can add/remove items from Builder Bookshelves
 
 ## Goal
 
 Have prototype system running by April, 2021 for public review, move to production bin May.
 
+## Timeline
+
+| Dates               |                                                               Milestones                                                               |
+| ------------------- | :------------------------------------------------------------------------------------------------------------------------------------: |
+| 09/14/20 - 9/21/20  | Review Technical Specs, existing code/documentation, and implementation goals for deeper understanding of technical aspects of problem |
+| 09/25/20            |   Deliver implementation plan and user stories for dev team to iteratively implement; allowing the dev team to reevaluate any cases.   |
+| 09/28/20 - 04/30/21 |    Main Development Period: Iteratively develop user stories several sprints. Demo new features at the end of sprints for feedback.    |
+| 04/30/21            |                                                       Final demo of new features                                                       |
+| 04/30/21 - 05/14/21 |                              QA period to resolve issues and bugs. Final preparation for product release                               |
+
+_Dates/Milestones are tentative and subject to change._
+
 ## Team
 
-Add names and links here.
+Adam Undus (aundus@stevens.edu)
+Liam Nagel (nagel@stevens.edu)
+John Dyer (jdyer@stevens.edu)
+Damon Del Priore (ddelprio@stevens.edu)
+Anthony Ciccone (aciccone@stevens.edu)
 
-## More about our team 
+## More about our team
 
-Describe your team here.
+Adam Undus - Most of my experience is in web development as I have worked on two teams with web facing applications. I have experience in Node.js with several database implementations, both cloud based and on prem. Overall experienced in both frontend and backend web facing development, and excited to take on this new challenge and learning experience.
+
+Liam Nagel - I have a fair amount of experience in web development from Web programming 1 and 2 both resulting in full web apps for the final project. I’ve worked with a good number of web technologies and I am looking forward to working with the new technologies we will be using for this project.
+
+John Dyer - I have taken a database class and am currently in a web programming course. I have also done work on the database structure of an app project using Node.js. I have not yet worked with cherrypy but am excited to learn a new method of database management.
+
+Damon Del Priore - My light experience in web development stems from my computer science curriculum. After taking web development and database courses, I have felt passionate about the designs of web pages. In past projects, I have been less active in programming outside of Java or C++, but I am prepared and excited to be working with a new database.
+
+Anthony Ciccone - My experience is mainly in web development, as I took both Web Programming 1 and 2. Stevens has us take many different classes for our major, that introduces us to a wide variety of topics and languages. I may not, currently, be confident in the skills needed for this project. After putting in time to familiarize myself and learn more, I believe that I'll be a great fit for this team/project.
