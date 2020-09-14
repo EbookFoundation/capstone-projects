@@ -38,11 +38,13 @@ Have prototype system running by April, 2021 for public review, move to producti
 
 | Dates               |                                                               Milestones                                                               |
 | ------------------- | :------------------------------------------------------------------------------------------------------------------------------------: |
-| 09/14/20 - 9/21/20  | Review Technical Specs, existing code/documentation, and implementation goals for deeper understanding of technical aspects of problem |
-| 09/25/20            |   Deliver implementation plan and user stories for dev team to iteratively implement; allowing the dev team to reevaluate any cases.   |
-| 09/28/20 - 04/30/21 |    Main Development Period: Iteratively develop user stories several sprints. Demo new features at the end of sprints for feedback.    |
-| 04/30/21            |                                                       Final demo of new features                                                       |
-| 04/30/21 - 05/14/21 |                              QA period to resolve issues and bugs. Final preparation for product release                               |
+| 09/14/20 - 9/21/20  | Review existing code/documentation, and implementation goals for deeper understanding of technical aspects of problem |
+| 09/21/20 - 12/02/20  | Document requirements of PG deployment environment and evaluate technology options. |
+| 10/02/20            |   Deliver user stories for dev team to iteratively implement; allowing the dev team to reevaluate any cases.   |
+| 10/09/20            |   Deliver implementation plan detailing technical feasability and decisions. Document what tools and technologies will be used.   |
+| 10/12/20 - 03/19/21 |    Main Development Period: Iteratively develop user stories several sprints. Demo new features at the end of sprints for feedback.    |
+| 03/19/21            |                                                       Final demo of new features                                                       |
+| 03/19/21 - 04/30/21 |                              QA period to resolve issues and bugs. Final preparation for product release                               |
 
 _Dates/Milestones are tentative and subject to change._
 
