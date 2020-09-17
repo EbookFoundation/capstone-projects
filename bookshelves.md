@@ -51,7 +51,7 @@ _Dates/Milestones are tentative and subject to change._
 ## Team
 
 Adam Undus (aundus@stevens.edu)
-Liam Nagel (nagel@stevens.edu)
+Liam Nagel (lnagel@stevens.edu)
 John Dyer (jdyer@stevens.edu)
 Damon Del Priore (ddelprio@stevens.edu)
 Anthony Ciccone (aciccone@stevens.edu)
