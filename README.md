@@ -3,6 +3,14 @@ This repo is used to organize Free Ebook Foundation projects for Stevens Institu
 
 ## 2021-2022
 
+Proposed Team:
+ - Brogan Clements
+ - Paul Kelly
+ - Leo Ouyang
+ - Dan Pekata
+ - Nick Quidas
+ - Dylan Regan
+
 Proposed project:
 
  - [Free-Programming-Books](fpb.md)
