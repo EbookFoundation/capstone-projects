@@ -11,7 +11,7 @@ Proposed project:
 
 Students interested in this project should use Github issues and pull requests to develop and propose teams. For example, students interested in a project but needing team members, and teams needing additional members should create an issue describing their interest and needs. Use issues to ask questions or seek clarification about the projects. To propose a team for a specific project, create a pull request adding the names of team members to the project page. You may also want to include roles, capabilities and the approach of the team. 
 
-I will not accept a proposal PR until September xx. But do not wait until then to start a pull request even if your team is incomplete or you're still deciding - I will comment on PRs with the goal of improving them, and you can close the PR to withdraw the proposal. If there are competing proposals, I will give preference to the best developed proposal. I am happy to schedule a Q&A session via Zoom- just request one via Github issues.
+I will not accept a proposal PR until September 16. But do not wait until then to start a pull request even if your team is incomplete or you're still deciding - I will comment on PRs with the goal of improving them, and you can close the PR to withdraw the proposal. If there are competing proposals, I will give preference to the best developed proposal. I am happy to schedule a Q&A session via Zoom- just request one via Github issues.
 
 I expect to meet with teams weekly - I will use Slack for meetings and discussions. Ideally we'll be able to meet as a team in person, Covid permitting.
 
