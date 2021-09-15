@@ -3,6 +3,26 @@ This repo is used to organize Free Ebook Foundation projects for Stevens Institu
 
 ## 2021-2022
 
+Team Contact Lead:
+
+abruno2@stevens.edu
+
+Proposed Team:
+
+Joshua Mimer - Used MySQL Connector/J driver to access MySQL databases through Java programs, Front-End Web Development (CSS, HTML). Experience with identifying web-based security vulnerabilities.
+
+Jared Follet - Experience in SQL (Connector/J), PHP, HTML, CSS, Web development (Front & Back End), and Online java-based shared-server configs.
+
+Anthony Bruno - SQL & SoQL database visualization at Salesforce, PowerShell & Azure Process Automation at K2 Integrity, Application & User Policy Governance, UI/UX Hobbyist.
+
+Christopher Moon -  I have experience with web development with Node.js and with creating full web applications. I have also worked with MongoDB/mySQL databases. 
+
+Mark Pipko - I have created a Node.js web application, hosted on a local express server, which allows users to simulate stock trading in real time, using MongoDB for data storage. Additionally, I have industry experience in programming Spring applications by using the Spring Boot framework in Java.   
+
+Edward Yaroslavsky - I have experience with Node.js web development, routing, hosting servers, and REST APIs in order to work with full stack applications, alongside SQL and NoSQL data storing/querying. I have also worked with Azure DevOps and various AWS services to develop serverless applications.
+
+We unanimously support the initiative to compile and organize free ebooks online. Our varying technical experience makes us a well-rounded team that accentuates each of our specialities. As Seniors, we’ve streamlined our collaborative processes over the course of countless prior projects together, and have established a reputation of success. We would love the chance to be able to leave our mark with The Free Ebook Foundation and further it’s reach.
+
 Proposed project:
 
  - [Free-Programming-Books](fpb.md)
