@@ -42,8 +42,11 @@ Free Programming Books applies Github's workflow to the creation and maintenance
 
 ## Team
 
-Add names and links here.
+ - Brogan Clements
+ - Paul Kelly
+ - Leo Ouyang
+ - Dan Pekata
+ - Nick Quidas
+ - Dylan Regan
 
-## More about our team 
 
-Describe your team here.

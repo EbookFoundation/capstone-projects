@@ -1,27 +1,25 @@
 # capstone-projects
 This repo is used to organize Free Ebook Foundation projects for Stevens Institute of Technology Senior-year computer science capstone projects.
 
+## 2022-2023
+
+Proposed projects:
+
+- [OAPEN Suggestion Service](oapen-doab.md#oapen-suggestion-service)
+- [Expert System for Open Access Book Website Analysis](oapen-doab.md#expert-system-for-open-access-book-website-analysis)
+
+
+Students interested in these projects should use Github issues and pull requests to develop and propose teams. For example, students interested in a project but needing team members, and teams needing additional members should create an issue describing their interest and needs. Use issues to ask questions or seek clarification about the projects. To propose a team for a specific project, create a pull request adding the names of team members to the project page. You may also want to include roles, capabilities and the approach of the team. 
+
+We will not accept a proposal PR until September 14. But do not wait until then to start a pull request even if your team is incomplete or you're still deciding - we will comment on PRs with the goal of improving them, and you can close the PR to withdraw the proposal. If there are competing proposals, we will give preference to the best developed proposal. We am happy to schedule a Q&A session via Zoom- just request one via Github issues.
+
+I expect to meet with teams weekly via zoom and at least once in person - We will use Slack for meetings and discussions. Note that the Suggestion Service project will need to have a regular scheduled meeting before noon to enable conferencing with Dr. Snijder, who resides in Amsterdam.
+
 ## 2021-2022
 
-Proposed Team:
- - Brogan Clements
- - Paul Kelly
- - Leo Ouyang
- - Dan Pekata
- - Nick Quidas
- - Dylan Regan
-
-Proposed project:
-
- - [Free-Programming-Books](fpb.md)
-
-
-
-Students interested in this project should use Github issues and pull requests to develop and propose teams. For example, students interested in a project but needing team members, and teams needing additional members should create an issue describing their interest and needs. Use issues to ask questions or seek clarification about the projects. To propose a team for a specific project, create a pull request adding the names of team members to the project page. You may also want to include roles, capabilities and the approach of the team. 
-
-I will not accept a proposal PR until September 16. But do not wait until then to start a pull request even if your team is incomplete or you're still deciding - I will comment on PRs with the goal of improving them, and you can close the PR to withdraw the proposal. If there are competing proposals, I will give preference to the best developed proposal. I am happy to schedule a Q&A session via Zoom- just request one via Github issues.
-
-I expect to meet with teams weekly - I will use Slack for meetings and discussions. Ideally we'll be able to meet as a team in person, Covid permitting.
+ - [Free-Programming-Books-Search](fpb.md)
+    - [repo](https://github.com/EbookFoundation/free-programming-books-search/)
+    - [search page](https://EbookFoundation.github.io/free-programming-books-search/)
 
 
 ## 2020-2021
