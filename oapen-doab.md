@@ -93,7 +93,7 @@ General disclaimer: this is open to change for anything that better integrates w
 
 ### More about the team 
 
-As a whole, our team is very comfortable with modern web development and agile practices. We prefer to work asynchronously and self-assign tickets as we go through Github projects. Our workflow will involve setting weekly Milestones (GitHub feature) of collections of Issues (tickets) that are assigned to each group member appropriately based on bandwidth and experience. As an organized team, you will be able to view our progress through Github’s issue tracker and milestones (which we can more clearly define once we meet with the project manager/advisors). 
+As a whole, our team is very comfortable with modern web development and agile practices. We will work asynchronously (but of course will be ready for all of our check-in meetings) and self-assign tickets as we go through Github projects. Our workflow will involve setting weekly Milestones (GitHub feature) of collections of Issues (tickets) that are assigned to each group member appropriately based on bandwidth and experience. As an organized team, you will be able to view our progress through Github’s issue tracker and milestones (which we can more clearly define once we meet with the project manager/advisors). 
 
 ### Reference
 
