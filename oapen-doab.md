@@ -3,8 +3,6 @@
  
 # OAPEN Suggestion Service
 
-## (Project #1)
-
 ## Background
 
 [OAPEN](https://oapen.org/) promotes and supports the transition to open access for academic books by providing open infrastructure services to stakeholders in scholarly communication. Over 24,000 books and book chapters are available from the OAPEN platform.
@@ -13,27 +11,30 @@ OAPEN has experimented with a suggestion service based on semantic inferencing b
 
 ## Goals
 
-This project will build
+This project built
 
 - an analysis/mining engine that will ingest the 24,000 texts at OAPEN and produce a trigram map
 - a web-service application that will use the trigram map allow websites to present suggestions from the OAPEN catalog based on a book identifier.
 
-The team will use off-the-shelf components such as Django, Node, and Postgres for deployment on Digital Ocean.
+The team will used off-the-shelf components such as Docker, Node, and Postgres for deployment on Digital Ocean.
+
+### Project Repo
+
+[OAPEN Suggestion Service](https://github.com/EbookFoundation/oapen-suggestion-service)
 
 ### Advisors
 
 - Ronald Snijder, OAPEN
 - Eric Hellman, Free Ebook Foundation
 
-### Proposed Team
+### Team
 
--
--
--
--
--
+- Celina Peralta
+- Justin O'Boyle
+- Maxim Zaremba
+- Peter Rauscher
+- Joseph Sofia (1st semester)
 
-### More about the team 
 
 
 ### Reference
@@ -43,7 +44,7 @@ The team will use off-the-shelf components such as Django, Node, and Postgres fo
 
 # Expert System for Open Access Book Website Analysis
 
-## (Project #2)
+## (this project was not worked on)
 
 ## Background
 
@@ -65,16 +66,4 @@ Advisors
 
 - Eric Hellman, Free Ebook Foundation
 - Ronald Snijder, OAPEN
-
-### Proposed Team
-
--
--
--
--
--
-
-### More about the team 
-
-
 
