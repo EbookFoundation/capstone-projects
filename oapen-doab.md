@@ -22,6 +22,24 @@ The team will used off-the-shelf components such as Docker, Node, and Postgres f
 
 [OAPEN Suggestion Service](https://github.com/EbookFoundation/oapen-suggestion-service)
 
+## Stack proposal
+
+General disclaimer: this is open to change for anything that better integrates with the organization's existing systems
+
+### Business logic/mining engine (1):
+* Text preprocessing and trigram generation using Python NLTK
+    * Some possibly interesting data available [here](https://oapen.org/resources/15635975-metadata)
+* Run [n] times per day(?) with a cronjob on DO/AWS to create trigram map, output to PostgreSQL database for access on website
+* Unsure of computational complexities and NLTK capabilities, may have to use cloud provider like AWS (a single DO droplet large enough may be very expensive)
+* Use trigrams to run suggestion service API layer, can interact with frontend web stack
+* NLTK has good libraries for creating Word N-gram models which can easily be accessed by the web app
+
+### Web product (2):
+* Node backend/authentication/middleware (with TypeScript) and React frontend
+    * (strongly preferred Next.js to create production+dev env)
+* Allows for the frontend interface and the ingest system to be developed independently, allowing for parallel development
+* PostgreSQL for data storage
+
 ### Advisors
 
 - Ronald Snijder, OAPEN
@@ -29,13 +47,53 @@ The team will used off-the-shelf components such as Docker, Node, and Postgres f
 
 ### Team
 
-- Celina Peralta
-- Justin O'Boyle
-- Maxim Zaremba
-- Peter Rauscher
-- Joseph Sofia (1st semester)
+**[Justin O’Boyle](https://github.com/justinoboyle)**
+* Role: Full-stack developer (preferred frontend, “middle-logic” and user experience, API layer, deployment pipeline)
+* Experience:
+    * Routing+styling with Node/React/Next/TypeScript for a medium-sized financial product (1.5 years+), created frontend MVP while working closely with professional design team
+    * Backend realtime trading system diagramming, maintenance and feature implementation for medium-sized financial product at large scale (1.5+ years+)
+    * Experience with maintaining AWS products like Lambda, S3, CodeBuild, CodePipeline and DigitalOcean buckets for backend deployments
+    * Experience with Vercel, Heroku and CloudFlare for frontend deployments
 
 
+**[Maxim Zaremba](https://github.com/max-zaremba)**
+* Role: Full-stack developer (experience with machine learning, frontend UI, and trading systems)
+* Experience: 
+    * Created a front-end UI in Typescript for the bloomberg professional application
+    * Developed a back-end Python service to load and deliver live position data
+    * Utilized machine learning (Pandas, SKLearn) to allow for automated matching between positions during reconciliation of derivative collateral
+    * Worked on microservice code generation improvements in C++, including adding C++ 11 specific features, such as templated functions
+    * Designed a judo class management application using Google’s Flutter and Firebase
+
+**[Celina Peralta](https://github.com/celinanperalta)**
+* Role: Backend developer (business logic (text mining), database design, API design)
+* Experience:
+    * Worked on computation engine for a business science application in React and Typescript.
+    * Experience with NLTK through a text mining course at Stevens. Familiarity with foundational concepts concerning text mining and NLP models.
+    * Worked as full stack dev on two MERN applications created with team members at Stevens for Web Programming courses.
+    * Various backend API implementations
+
+
+**[Joseph Sofia](https://github.com/j-sofia)**
+* Role: Developer
+* Experience:
+    * Full-stack web/mobile dev for coursework
+    * Business applications in .NET and Blazor/Angular; UI, business logic, databases
+    * Business backend integrations
+    * Azure deployment pipelines, function apps, and db storage
+    * Databricks distributed data analytics processing
+
+**[Peter Rauscher](https://github.com/peterrauscher)**
+* Role: Developer
+* Experience:
+    * Full-stack web development with the MERN stack
+    * EDI automation using C#/.NET to send and receive purchase orders and shipment updates
+    * ASP.NET web development for intranet business applications
+    * Experience with AWS, Azure, and DigitalOcean deployment and administration
+    * Built a web crawler with Python and BeautifulSoup for cross-checking product prices on Amazon, eBay, and Facebook Marketplace
+
+
+As a whole, our team is very comfortable with modern web development and agile practices. We will work asynchronously (but of course will be ready for all of our check-in meetings) and self-assign tickets as we go through Github projects. Our workflow will involve setting weekly Milestones (GitHub feature) of collections of Issues (tickets) that are assigned to each group member appropriately based on bandwidth and experience. As an organized team, you will be able to view our progress through Github’s issue tracker and milestones (which we can more clearly define once we meet with the project manager/advisors). 
 
 ### Reference
 
